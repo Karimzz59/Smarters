@@ -295,18 +295,18 @@
         const waNumber = "33751322082";
         function contactWhatsApp(type) {
             const msgs = {
-                'hero': "Bonjour, je souhaite démarrer un essai IPTV Premium pour configurer IPTV Smarters Pro.",
-                'nav': "Bonjour, je veux configurer IPTV Smarters Pro avec votre serveur. Comment procéder ?",
-                'guide': "Bonjour, je suis le guide d'installation. Je souhaite obtenir mes identifiants Xtream Codes.",
-                '1mois': "Bonjour, je souhaite souscrire au Pack 3 mois (20€). Je confirme vouloir effectuer un paiement unique.",
-                '6mois': "Bonjour, je souhaite souscrire au Pack Semestriel 6 mois (30€). Je confirme vouloir effectuer un paiement unique.",
-                '12mois': "Bonjour, je souhaite souscrire au Pack Annuel 12 mois (40€). Je confirme vouloir effectuer un paiement unique.",
-                'faq': "Bonjour, je sollicite le support technique concernant IPTV Smarters Pro.",
-                'comparaison': "Bonjour, je choisis l'accès IPTV Premium en paiement unique. Comment valider ?",
-                'testimonials': "Bonjour, je voudrais rejoindre vos abonnés et obtenir mon accès IPTV Premium.",
-                'compat': "Bonjour, je souhaite configurer IPTV Smarters Pro sur mon appareil.",
-                'cta': "Bonjour, je souhaite activer mon accès IPTV maintenant. Quel pack me conseillez-vous ?",
-                'general': "Bonjour, j'ai besoin d'informations pour configurer mon IPTV."
+                'hero': "Bonjour, je veux accéder aux 20 000 chaînes. C'est quoi la marche à suivre ?",
+                'nav': "Bonjour, comment je m'abonne ?",
+                'guide': "Bonjour, j'ai suivi le guide. Je veux mes identifiants.",
+                '1mois': "Bonjour, je veux tester 3 mois à 20€. C'est possible ?",
+                '6mois': "Bonjour, je suis intéressé par le pack 6 mois à 30€.",
+                '12mois': "Bonjour, je prends le pack annuel à 40€. Quelles sont les étapes ?",
+                'faq': "Bonjour, j'ai une question rapide avant de m'abonner.",
+                'comparaison': "Bonjour, je veux le pack à 40€/an. Comment procéder ?",
+                'testimonials': "Bonjour, je veux rejoindre vos membres. Comment s'abonner ?",
+                'compat': "Bonjour, ça marche sur mon appareil ? Je veux m'abonner.",
+                'cta': "Bonjour, je veux activer mon accès maintenant. C'est quoi la procédure ?",
+                'general': "Bonjour, je veux m'abonner. C'est quoi la procédure ?"
             };
             const msg = msgs[type] || msgs['general'];
             window.open(`https://wa.me/${waNumber}?text=${encodeURIComponent(msg)}`, '_blank');
