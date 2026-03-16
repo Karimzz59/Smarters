@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Crawl-delay: 1
+
+User-agent: Googlebot
+Allow: /
+
+Sitemap: https://iptv-smarters-france.fr/sitemap.xml
