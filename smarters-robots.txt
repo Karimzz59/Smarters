@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://iptv-smarters-france.fr/sitemap.xml
