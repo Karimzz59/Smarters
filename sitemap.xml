@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>https://iptv-smarters-france.fr/blog.html</loc>
-    <lastmod>2026-06-02</lastmod>
+    <lastmod>2026-06-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -129,6 +129,12 @@
   <url>
     <loc>https://iptv-smarters-france.fr/arnaque-iptv-comment-eviter.html</loc>
     <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://iptv-smarters-france.fr/iptv-ecran-noir.html</loc>
+    <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
