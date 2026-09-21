@@ -312,7 +312,7 @@
                 'cta': "Bonjour, je veux activer mon accès maintenant. C'est quoi la procédure ?",
                 'general': "Bonjour, je veux m'abonner. C'est quoi la procédure ?"
             };
-            const msg = msgs[type] || msgs['general'];
+            const msg = (msgs[type] || msgs['general']) + "\n\n(via iptv-smarters-france.fr)";
             window.open(`https://wa.me/${waNumber}?text=${encodeURIComponent(msg)}`, '_blank');
         }
     </script>
