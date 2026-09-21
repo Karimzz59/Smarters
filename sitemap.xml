@@ -61,14 +61,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iptv-smarters-france.fr/installer-iptv-windows-pc.html</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://iptv-smarters-france.fr/iptv-smarters-pro-apk.html</loc>
-    <lastmod>2026-06-08</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -158,7 +152,7 @@
   </url>
   <url>
     <loc>https://iptv-smarters-france.fr/iptv-smarters-pro-pc.html</loc>
-    <lastmod>2026-07-04</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -167,5 +161,23 @@
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://iptv-smarters-france.fr/code-iptv-smarters-pro.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://iptv-smarters-france.fr/renouveler-abonnement-iptv-smarters-pro.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://iptv-smarters-france.fr/iptv-smarters-pro-gratuit.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
