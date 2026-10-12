@@ -362,7 +362,7 @@
                 'general': "Bonjour, je veux m'abonner. C'est quoi la procédure ?"
             };
             const msg = (msgs[type] || msgs['general']) + "\n\n(via iptv-smarters-france.fr)";
-            window.open(`https://wa.me/${waNumber}?text=${encodeURIComponent(msg)}`, '_blank');
+            window.open(`https://api.whatsapp.com/send?phone=${waNumber}&text=${encodeURIComponent(msg)}&app_absent=0`, '_blank');
         }
     </script>
 </body>
